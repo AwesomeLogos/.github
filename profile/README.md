@@ -5,7 +5,6 @@
 | Repo | Action |
 | ---- | ------ |
 | [AwesomeLogos/.github](https://github.com/AwesomeLogos/.github) | [![update](https://github.com/AwesomeLogos/.github/workflows/update/badge.svg)](https://github.com/AwesomeLogos/.github/actions?query=workflow%3Aupdate%20branch%3Amain)
-| [AwesomeLogos/AwesomeLogos](https://github.com/AwesomeLogos/AwesomeLogos) | [![update](https://github.com/AwesomeLogos/AwesomeLogos/workflows/update/badge.svg)](https://github.com/AwesomeLogos/AwesomeLogos/actions?query=workflow%3Aupdate%20branch%3Amain)
 | [AwesomeLogos/aws-icons](https://github.com/AwesomeLogos/aws-icons) | [![update](https://github.com/AwesomeLogos/aws-icons/workflows/update/badge.svg)](https://github.com/AwesomeLogos/aws-icons/actions?query=workflow%3Aupdate%20branch%3Amain)
 | [AwesomeLogos/bimi-explorer](https://github.com/AwesomeLogos/bimi-explorer) | [![deploy](https://github.com/AwesomeLogos/bimi-explorer/workflows/deploy/badge.svg)](https://github.com/AwesomeLogos/bimi-explorer/actions?query=workflow%3Adeploy%20branch%3Amain)
 | [AwesomeLogos/google-cloud-icons](https://github.com/AwesomeLogos/google-cloud-icons) | [![update](https://github.com/AwesomeLogos/google-cloud-icons/workflows/update/badge.svg)](https://github.com/AwesomeLogos/google-cloud-icons/actions?query=workflow%3Aupdate%20branch%3Amain)
@@ -13,6 +12,6 @@
 | [AwesomeLogos/sensa-emoji](https://github.com/AwesomeLogos/sensa-emoji) | [![update](https://github.com/AwesomeLogos/sensa-emoji/workflows/update/badge.svg)](https://github.com/AwesomeLogos/sensa-emoji/actions?query=workflow%3Aupdate%20branch%3Amain)
 | [AwesomeLogos/workday-icons](https://github.com/AwesomeLogos/workday-icons) | [![update](https://github.com/AwesomeLogos/workday-icons/workflows/update/badge.svg)](https://github.com/AwesomeLogos/workday-icons/actions?query=workflow%3Aupdate%20branch%3Amain)
 
-Repos: 8
+Repos: 7
 
 <small>Built with <a href="https://github.com/fileformat/ghashboard"><img src="https://ghashboard.marcuse.info/favicon.svg" alt="Ghashboard logo" height="16" />ghashboard</a>!</small>
