@@ -4,9 +4,8 @@
 
 | Repo | Action |
 | ---- | ------ |
-| [AwesomeLogos/.github](https://github.com/AwesomeLogos/.github) | [![update](https://github.com/AwesomeLogos/.github/workflows/update/badge.svg)](https://github.com/AwesomeLogos/.github/actions?query=workflow%3Aupdate%20branch%3Amain)
 | [AwesomeLogos/bimi-explorer](https://github.com/AwesomeLogos/bimi-explorer) | [![deploy](https://github.com/AwesomeLogos/bimi-explorer/workflows/deploy/badge.svg)](https://github.com/AwesomeLogos/bimi-explorer/actions?query=workflow%3Adeploy%20branch%3Amain)
 
-Repos: 2
+Repos: 1
 
 <small>Built with <a href="https://github.com/fileformat/ghashboard"><img src="https://ghashboard.marcuse.info/favicon.svg" alt="Ghashboard logo" height="16" />ghashboard</a>!</small>
