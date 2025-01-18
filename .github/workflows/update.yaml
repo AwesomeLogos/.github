@@ -18,11 +18,14 @@ jobs:
     - name: Update
       uses: fileformat/ghashboard@main
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        owners: AwesomeLogos
-        output: profile/README.md
-        private: false
         exclude: ''
+        owners: "AwesomeLogos"
+        output: "profile/README.md"
+        private: false
+        public: true
+        title: "Awesome Logos Dashboard"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        skip: AwesomeLogos/.github
         #title: "Awesome Logos Dashboard"
 
     - name: Install SSH Client
